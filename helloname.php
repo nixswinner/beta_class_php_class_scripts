@@ -27,6 +27,22 @@
 		$name = $_POST['personName'];
 		echo "<h2>Good morning $name</h2>";
 	}
+
+
+
+
+
+	/*
+Create a login form 
+username 
+password
+
+- capture the username and password
+compare against your correct password and username
+-match welcome
+incorrect - In RED incorrect password or username
+
+	*/
 	
 
 	?>
